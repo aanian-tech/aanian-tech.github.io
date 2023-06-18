@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: coral;
+    text-align: center;
+    justify-content: center;
+    vertical-align: middle;
+    margin-top: 300px;
+    font-weight: bold;
+}
